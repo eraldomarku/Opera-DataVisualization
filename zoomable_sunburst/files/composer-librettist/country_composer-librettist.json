@@ -1,0 +1,1885 @@
+{
+    "name": "Opera",
+    "children": [
+        {
+            "name": "Russia",
+            "children": [
+                {
+                    "name": "Paisiello Giovanni,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Achille in Sciro",
+                            "children": [
+                                {
+                                    "name": "Saint Petersburg 1778",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Alcide al bivio",
+                            "children": [
+                                {
+                                    "name": "Saint Petersburg 1780",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Il Demetrio",
+                            "children": [
+                                {
+                                    "name": "Tsarskoye Selo 1779",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Nitteti",
+                            "children": [
+                                {
+                                    "name": "Saint Petersburg 1777",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Saint Petersburg 1778",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Paisiello Giovanni,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "I Filosofi immaginari",
+                            "children": [
+                                {
+                                    "name": "Saint Petersburg 1779",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Saint Petersburg 1779",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Paisiello Giovanni,  Goldoni Carlo",
+                    "children": [
+                        {
+                            "name": "Il mondo della luna",
+                            "children": [
+                                {
+                                    "name": "Saint Petersburg 1782",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Saint Petersburg 1783",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Italy",
+            "children": [
+                {
+                    "name": "Mayr Johann Simon,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Adelaide di Guesclino",
+                            "children": [
+                                {
+                                    "name": "Venice 1799",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Che originali",
+                            "children": [
+                                {
+                                    "name": "Venice 1798",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Venice 1815",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Genoa 1802",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Padua 1805",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Elisa",
+                            "children": [
+                                {
+                                    "name": "Venice 1804",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Eraldo ed Emma",
+                            "children": [
+                                {
+                                    "name": "Milan 1805",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Ravenna 1809",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ginevra di Scozia",
+                            "children": [
+                                {
+                                    "name": "Genoa 1803",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Naples 1801",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Gli sciti",
+                            "children": [
+                                {
+                                    "name": "Venice 1800",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "I cherusci",
+                            "children": [
+                                {
+                                    "name": "Rome 1808",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "L' Amor coniugale",
+                            "children": [
+                                {
+                                    "name": "Padua 1805",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Genoa 1807",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "La roccia di Frauenstein",
+                            "children": [
+                                {
+                                    "name": "Venice 1805",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Anfossi Pasquale,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Adriano in Siria",
+                            "children": [
+                                {
+                                    "name": "Padua 1777",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Antigono",
+                            "children": [
+                                {
+                                    "name": "Bologna 1782",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Artaserse",
+                            "children": [
+                                {
+                                    "name": "Rome 1788",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Didone abbandonata",
+                            "children": [
+                                {
+                                    "name": "Venice 1775",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Naples 1788",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ezio",
+                            "children": [
+                                {
+                                    "name": "Venice 1778",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Nitteti",
+                            "children": [
+                                {
+                                    "name": "Venice 1780",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Olimpiade",
+                            "children": [
+                                {
+                                    "name": "Rome 1778",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mayr Johann Simon,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Adriano in Siria",
+                            "children": [
+                                {
+                                    "name": "Venice 1798",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Piccinni Niccol\u00f2,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Alessandro nell'Indie",
+                            "children": [
+                                {
+                                    "name": "Naples 1775",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Artaserse",
+                            "children": [
+                                {
+                                    "name": "Naples 1784",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Didone abbandonata",
+                            "children": [
+                                {
+                                    "name": "Naples 1780",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cimarosa Domenico,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Alessandro nell'Indie",
+                            "children": [
+                                {
+                                    "name": "Rome 1781",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Artaserse",
+                            "children": [
+                                {
+                                    "name": "Turin 1784",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Turin 1785",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Caio Mario",
+                            "children": [
+                                {
+                                    "name": "Rome 1780",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "L'eroe cinese",
+                            "children": [
+                                {
+                                    "name": "Naples 1782",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "L'Olimpiade",
+                            "children": [
+                                {
+                                    "name": "Vicenza 1784",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Venice 1784",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Olimpiade",
+                            "children": [
+                                {
+                                    "name": "Vicenza 1784",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Paisiello Giovanni,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Antigono",
+                            "children": [
+                                {
+                                    "name": "Naples 1785",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Naples 1784",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Naples 1795",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Catone in Utica",
+                            "children": [
+                                {
+                                    "name": "Naples 1789",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Didone abbandonata",
+                            "children": [
+                                {
+                                    "name": "Naples 1794",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Il Demofoonte",
+                            "children": [
+                                {
+                                    "name": "Venice 1775",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Olimpiade",
+                            "children": [
+                                {
+                                    "name": "Naples 1786",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Naples 1796",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Anfossi Pasquale,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Azor re di Kibinga",
+                            "children": [
+                                {
+                                    "name": "Venice 1779",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Il curioso indiscreto",
+                            "children": [
+                                {
+                                    "name": "Rome 1777",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Il geloso in cimento",
+                            "children": [
+                                {
+                                    "name": "Castelnuovo di Val di Cecina 1785",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Naples 1788",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Il matrimonio per inganno",
+                            "children": [
+                                {
+                                    "name": "Florence 1779",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Isabella e Rodrigo",
+                            "children": [
+                                {
+                                    "name": "Venice 1776",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "L' Avaro",
+                            "children": [
+                                {
+                                    "name": "Venice 1775",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Florence 1777",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "La forza delle donne",
+                            "children": [
+                                {
+                                    "name": "Venice 1778",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Turin 1780",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "L'imbroglio delle tre spose",
+                            "children": [
+                                {
+                                    "name": "Venice 1781",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Florence 1781",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lo sposo disperato",
+                            "children": [
+                                {
+                                    "name": "Bologna 1777",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Venice 1777",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Venice 1778",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Paisiello Giovanni,  Calzabigi Ranieri de",
+                    "children": [
+                        {
+                            "name": "Elfrida",
+                            "children": [
+                                {
+                                    "name": "Naples 1792",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Bologna 1796",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Naples 1782",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Naples 1793",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Naples 1794",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Verona 1796",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Elvira",
+                            "children": [
+                                {
+                                    "name": "Naples 1794",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Naples 1793",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Meyerbeer Giacomo,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Emma di Resburgo",
+                            "children": [
+                                {
+                                    "name": "Venice 1819",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Il crociato in Egitto",
+                            "children": [
+                                {
+                                    "name": "Venice 1824",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cimarosa Domenico,  Sografi Simeone Antonio",
+                    "children": [
+                        {
+                            "name": "Gli Orazi ed i Curiazi",
+                            "children": [
+                                {
+                                    "name": "Venice 1796",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Venice 1797",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Rome 1797",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Milan 1798",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Venice 1794",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Paisiello Giovanni,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "I Filosofi immaginari",
+                            "children": [
+                                {
+                                    "name": "Venice 1782",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "La locanda",
+                            "children": [
+                                {
+                                    "name": "Naples 1792",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Paisiello Giovanni,  Goldoni Carlo",
+                    "children": [
+                        {
+                            "name": "Il finto principe",
+                            "children": [
+                                {
+                                    "name": "Florence 1775",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cimarosa Domenico,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Il matrimonio segreto",
+                            "children": [
+                                {
+                                    "name": "Venice 1794",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Naples 1793",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Piccinni Niccol\u00f2,  Mazzol\u00e0 Caterino",
+                    "children": [
+                        {
+                            "name": "Il servo padrone",
+                            "children": [
+                                {
+                                    "name": "Venice 1794",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Salieri Antonio,  Goldoni Carlo",
+                    "children": [
+                        {
+                            "name": "Il talismano",
+                            "children": [
+                                {
+                                    "name": "Milan 1779",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Martin y Soler Vicente,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Ipermestra",
+                            "children": [
+                                {
+                                    "name": "Naples 1780",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mozart Wolfgang Amadeus,  Mazzol\u00e0 Caterino",
+                    "children": [
+                        {
+                            "name": "La clemenza di Tito",
+                            "children": [
+                                {
+                                    "name": "Naples 1809",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Anfossi Pasquale,  Calzabigi Ranieri de",
+                    "children": [
+                        {
+                            "name": "La finta giardiniera",
+                            "children": [
+                                {
+                                    "name": "Naples 1775",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Salieri Antonio,  Mazzol\u00e0 Caterino",
+                    "children": [
+                        {
+                            "name": "La scuola de' gelosi",
+                            "children": [
+                                {
+                                    "name": "Venice 1778",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "La scuola dei maritati",
+                            "children": [
+                                {
+                                    "name": "Venice 1795",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Udine 1800",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "L'arbore di Diana",
+                            "children": [
+                                {
+                                    "name": "Venice 1783",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Una cosa rara",
+                            "children": [
+                                {
+                                    "name": "Venice 1788",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Bologna 1788",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Naples 1789",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Faenza 1790",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Rome 1788",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cimarosa Domenico,  Goldoni Carlo",
+                    "children": [
+                        {
+                            "name": "La vanit\u00e0 delusa",
+                            "children": [
+                                {
+                                    "name": "Florence 1784",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mayr Johann Simon,  Sografi Simeone Antonio",
+                    "children": [
+                        {
+                            "name": "Saffo",
+                            "children": [
+                                {
+                                    "name": "Venice 1794",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Telemaco nell'isola di Calipso",
+                            "children": [
+                                {
+                                    "name": "Venice 1797",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Rossini Gioachino,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Semiramide",
+                            "children": [
+                                {
+                                    "name": "Venice 1823",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tancredi",
+                            "children": [
+                                {
+                                    "name": "Venice 1813",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Germany",
+            "children": [
+                {
+                    "name": "Mayr Johann Simon,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Adelaide di Guesclino",
+                            "children": [
+                                {
+                                    "name": "Dresden 1808",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Hamburg 1815",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ginevra di Scozia",
+                            "children": [
+                                {
+                                    "name": "Weimar 1811",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Frankfurt 1802",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Salieri Antonio,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "Axur re d'Ormus",
+                            "children": [
+                                {
+                                    "name": "Dresden 1789",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Weimar 1800",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Bonn 1788",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Braunschweig 1794",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "La cifra",
+                            "children": [
+                                {
+                                    "name": "Bad Lauchst\u00e4dt 1793",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Weimar 1793",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Pillnitz 1790",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Weimar 1795",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Hamburg 1793",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "Cos\u00ec fan tutte",
+                            "children": [
+                                {
+                                    "name": "Dresden 1791",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Dresden 1830",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Weimar 1797",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Donaueschingen 1791",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Osnabr\u00fcck 1828",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Dessau 1805",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Don Giovanni",
+                            "children": [
+                                {
+                                    "name": "Dresden 1814",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Dresden 1821",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Dresden 1832",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Weimar 1792",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Hamburg 1789",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Le nozze di Figaro",
+                            "children": [
+                                {
+                                    "name": "Weimar 1793",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Dresden 1815",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Dresden 1829",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Detmold 1829",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Potsdam 1790",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cimarosa Domenico,  Sografi Simeone Antonio",
+                    "children": [
+                        {
+                            "name": "Gli Orazi ed i Curiazi",
+                            "children": [
+                                {
+                                    "name": "Leipzig 1786",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Paisiello Giovanni,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "I Filosofi immaginari",
+                            "children": [
+                                {
+                                    "name": "Pillnitz 1793",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Weimar 1791",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Meyerbeer Giacomo,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Il crociato in Egitto",
+                            "children": [
+                                {
+                                    "name": "Detmold 1833",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Hamburg 1832",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Anfossi Pasquale,  Goldoni Carlo",
+                    "children": [
+                        {
+                            "name": "Il geloso in cimento",
+                            "children": [
+                                {
+                                    "name": "Weimar 1791",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Anfossi Pasquale,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Il geloso in cimento",
+                            "children": [
+                                {
+                                    "name": "Hamburg 1781",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Braunschweig 1781",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Dresden 1775",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Isabella e Rodrigo",
+                            "children": [
+                                {
+                                    "name": "Regensburg 1785",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "L' Avaro",
+                            "children": [
+                                {
+                                    "name": "Braunschweig 1782",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Regensburg 1775",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "La forza delle donne",
+                            "children": [
+                                {
+                                    "name": "Regensburg 1785",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Braunschweig 1781",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cimarosa Domenico,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Il matrimonio segreto",
+                            "children": [
+                                {
+                                    "name": "Dresden 1792",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Dresden 1830",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Weimar 1796",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Dessau 1796",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Salieri Antonio,  Goldoni Carlo",
+                    "children": [
+                        {
+                            "name": "Il talismano",
+                            "children": [
+                                {
+                                    "name": "Hamburg 1794",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Piccinni Niccol\u00f2,  Goldoni Carlo",
+                    "children": [
+                        {
+                            "name": "La buona figliuola",
+                            "children": [
+                                {
+                                    "name": "Regensburg 1778",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Regensburg 1782",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Hamburg 1778",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Hanover 1777",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mozart Wolfgang Amadeus,  Mazzol\u00e0 Caterino",
+                    "children": [
+                        {
+                            "name": "La clemenza di Tito",
+                            "children": [
+                                {
+                                    "name": "Weimar 1799",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Osnabr\u00fcck 1825",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Osnabr\u00fcck 1830",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Braunschweig 1799",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Karlsruhe 1812",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Anfossi Pasquale,  Calzabigi Ranieri de",
+                    "children": [
+                        {
+                            "name": "La finta giardiniera",
+                            "children": [
+                                {
+                                    "name": "Frankfurt 1782",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Salieri Antonio,  Mazzol\u00e0 Caterino",
+                    "children": [
+                        {
+                            "name": "La scuola de' gelosi",
+                            "children": [
+                                {
+                                    "name": "Hamburg 1795",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "La scuola dei maritati",
+                            "children": [
+                                {
+                                    "name": "Weimar 1799",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "L'arbore di Diana",
+                            "children": [
+                                {
+                                    "name": "Weimar 1793",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Donaueschingen 1789",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Braunschweig 1789",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Hamburg 1788",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Una cosa rara",
+                            "children": [
+                                {
+                                    "name": "Weimar 1791",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Donaueschingen 1788",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Detmold 1827",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Osnabr\u00fcck 1829",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Braunschweig 1788",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Braunschweig 1795",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Rossini Gioachino,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Semiramide",
+                            "children": [
+                                {
+                                    "name": "Weimar 1825",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Hamburg 1830",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tancredi",
+                            "children": [
+                                {
+                                    "name": "Weimar 1817",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "France",
+            "children": [
+                {
+                    "name": "Salieri Antonio,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "Axur re d'Ormus",
+                            "children": [
+                                {
+                                    "name": "Paris 1803",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Paris 1787",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Paris 1786",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Paisiello Giovanni,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "I Filosofi immaginari",
+                            "children": [
+                                {
+                                    "name": "Paris 1780",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Anfossi Pasquale,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Il geloso in cimento",
+                            "children": [
+                                {
+                                    "name": "Paris 1779",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "L' Avaro",
+                            "children": [
+                                {
+                                    "name": "Paris 1787",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cimarosa Domenico,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Il matrimonio segreto",
+                            "children": [
+                                {
+                                    "name": "Paris 1801",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Anfossi Pasquale,  Goldoni Carlo",
+                    "children": [
+                        {
+                            "name": "L\u2019incognita perseguitata",
+                            "children": [
+                                {
+                                    "name": "Paris 1776",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Anfossi Pasquale,  Calzabigi Ranieri de",
+                    "children": [
+                        {
+                            "name": "La finta giardiniera",
+                            "children": [
+                                {
+                                    "name": "Paris 1778",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Austria",
+            "children": [
+                {
+                    "name": "Salieri Antonio,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "Axur re d'Ormus",
+                            "children": [
+                                {
+                                    "name": "Vienna 1787",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Vienna 1788",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Il talismano",
+                            "children": [
+                                {
+                                    "name": "Vienna 1788",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "La cifra",
+                            "children": [
+                                {
+                                    "name": "Vienna 1789",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mayr Johann Simon,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Che originali",
+                            "children": [
+                                {
+                                    "name": "Vienna 1803",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "Cos\u00ec fan tutte",
+                            "children": [
+                                {
+                                    "name": "Vienna 1790",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Don Giovanni",
+                            "children": [
+                                {
+                                    "name": "Vienna 1788",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Le nozze di Figaro",
+                            "children": [
+                                {
+                                    "name": "Vienna 1786",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "Il burbero di buon cuore",
+                            "children": [
+                                {
+                                    "name": "Vienna 1786",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "La scuola dei maritati",
+                            "children": [
+                                {
+                                    "name": "Vienna 1796",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "L'arbore di Diana",
+                            "children": [
+                                {
+                                    "name": "Vienna 1787",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Vienna 1787",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Una cosa rara",
+                            "children": [
+                                {
+                                    "name": "Vienna 1787",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Vienna 1786",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Anfossi Pasquale,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Il geloso in cimento",
+                            "children": [
+                                {
+                                    "name": "Graz 1779",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cimarosa Domenico,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Il matrimonio segreto",
+                            "children": [
+                                {
+                                    "name": "Vienna 1792",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mozart Wolfgang Amadeus,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Il re pastore",
+                            "children": [
+                                {
+                                    "name": "Salzburg 1775",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Poland",
+            "children": [
+                {
+                    "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "Cos\u00ec fan tutte",
+                            "children": [
+                                {
+                                    "name": "Wroc\u0142aw 1811",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Wroc\u0142aw 1814",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Wroc\u0142aw 1821",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Wroc\u0142aw 1824",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Wroc\u0142aw 1829",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Wroc\u0142aw 1832",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Czech Republic",
+            "children": [
+                {
+                    "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "Don Giovanni",
+                            "children": [
+                                {
+                                    "name": "Prague 1787",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Le nozze di Figaro",
+                            "children": [
+                                {
+                                    "name": "Prague 1787",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Anfossi Pasquale,  Goldoni Carlo",
+                    "children": [
+                        {
+                            "name": "Il geloso in cimento",
+                            "children": [
+                                {
+                                    "name": "Prague 1775",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mozart Wolfgang Amadeus,  Mazzol\u00e0 Caterino",
+                    "children": [
+                        {
+                            "name": "La clemenza di Tito",
+                            "children": [
+                                {
+                                    "name": "Prague 1791",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Netherlands",
+            "children": [
+                {
+                    "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "Don Giovanni",
+                            "children": [
+                                {
+                                    "name": "Amsterdam 1794",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Malta",
+            "children": [
+                {
+                    "name": "Mayr Johann Simon,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Elisa",
+                            "children": [
+                                {
+                                    "name": "Valletta 1801",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "United Kingdom",
+            "children": [
+                {
+                    "name": "Anfossi Pasquale,  Calzabigi Ranieri de",
+                    "children": [
+                        {
+                            "name": "La finta giardiniera",
+                            "children": [
+                                {
+                                    "name": "London 1775",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Paisiello Giovanni,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "La locanda",
+                            "children": [
+                                {
+                                    "name": "London 1791",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "La scuola dei maritati",
+                            "children": [
+                                {
+                                    "name": "London 1795",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1270 @@
+{
+    "name": "Opera",
+    "children": [
+        {
+            "name": "L: Metastasio Pietro",
+            "children": [
+                {
+                    "name": "Achille in Sciro",
+                    "children": [
+                        {
+                            "name": "Saint Petersburg (Russia1778)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Adriano in Siria",
+                    "children": [
+                        {
+                            "name": "Padua (Italy1777)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy1798)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Alcide al bivio",
+                    "children": [
+                        {
+                            "name": "Saint Petersburg (Russia1780)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Alessandro nell'Indie",
+                    "children": [
+                        {
+                            "name": "Naples (Italy1775)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Rome (Italy1781)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Antigono",
+                    "children": [
+                        {
+                            "name": "Naples (Italy1785)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy1784)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy1795)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Bologna (Italy1782)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Artaserse",
+                    "children": [
+                        {
+                            "name": "Turin (Italy1784)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Rome (Italy1788)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Turin (Italy1785)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy1784)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Caio Mario",
+                    "children": [
+                        {
+                            "name": "Rome (Italy1780)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Catone in Utica",
+                    "children": [
+                        {
+                            "name": "Naples (Italy1789)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Didone abbandonata",
+                    "children": [
+                        {
+                            "name": "Naples (Italy1794)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy1775)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy1788)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy1780)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Ezio",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1778)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Il Demetrio",
+                    "children": [
+                        {
+                            "name": "Tsarskoye Selo (Russia1779)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Il Demofoonte",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1775)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Il re pastore",
+                    "children": [
+                        {
+                            "name": "Salzburg (Austria1775)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Ipermestra",
+                    "children": [
+                        {
+                            "name": "Naples (Italy1780)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "L'eroe cinese",
+                    "children": [
+                        {
+                            "name": "Naples (Italy1782)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "L'Olimpiade",
+                    "children": [
+                        {
+                            "name": "Vicenza (Italy1784)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy1784)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Nitteti",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1780)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Saint Petersburg (Russia1777)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Saint Petersburg (Russia1778)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Olimpiade",
+                    "children": [
+                        {
+                            "name": "Naples (Italy1786)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Vicenza (Italy1784)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Rome (Italy1778)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy1796)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "L: Rossi Gaetano",
+            "children": [
+                {
+                    "name": "Adelaide di Guesclino",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1799)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany1808)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany1815)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Che originali",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1798)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Vienna (Austria1803)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy1815)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Genoa (Italy1802)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Padua (Italy1805)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Elisa",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1804)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Valletta (Malta1801)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Emma di Resburgo",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1819)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Eraldo ed Emma",
+                    "children": [
+                        {
+                            "name": "Milan (Italy1805)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Ravenna (Italy1809)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Ginevra di Scozia",
+                    "children": [
+                        {
+                            "name": "Weimar (Germany1811)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Genoa (Italy1803)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Frankfurt (Germany1802)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy1801)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Gli sciti",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1800)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "I cherusci",
+                    "children": [
+                        {
+                            "name": "Rome (Italy1808)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Il crociato in Egitto",
+                    "children": [
+                        {
+                            "name": "Detmold (Germany1833)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy1824)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany1832)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "L' Amor coniugale",
+                    "children": [
+                        {
+                            "name": "Padua (Italy1805)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Genoa (Italy1807)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "La roccia di Frauenstein",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1805)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Semiramide",
+                    "children": [
+                        {
+                            "name": "Weimar (Germany1825)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy1823)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany1830)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Tancredi",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1813)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany1817)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "L: Da Ponte Lorenzo",
+            "children": [
+                {
+                    "name": "Axur re d'Ormus",
+                    "children": [
+                        {
+                            "name": "Dresden (Germany1789)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany1800)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Bonn (Germany1788)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Paris (France1803)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Braunschweig (Germany1794)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Paris (France1787)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Paris (France1786)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Vienna (Austria1787)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Vienna (Austria1788)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Cos\u00ec fan tutte",
+                    "children": [
+                        {
+                            "name": "Vienna (Austria1790)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany1791)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany1830)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany1797)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Wroc\u0142aw (Poland1811)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Wroc\u0142aw (Poland1814)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Wroc\u0142aw (Poland1821)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Wroc\u0142aw (Poland1824)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Wroc\u0142aw (Poland1829)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Wroc\u0142aw (Poland1832)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Donaueschingen (Germany1791)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Osnabr\u00fcck (Germany1828)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dessau (Germany1805)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Don Giovanni",
+                    "children": [
+                        {
+                            "name": "Prague (Czech Republic1787)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Amsterdam (Netherlands1794)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany1814)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany1821)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany1832)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany1792)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany1789)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Vienna (Austria1788)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Il burbero di buon cuore",
+                    "children": [
+                        {
+                            "name": "Vienna (Austria1786)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Il talismano",
+                    "children": [
+                        {
+                            "name": "Vienna (Austria1788)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "La cifra",
+                    "children": [
+                        {
+                            "name": "Vienna (Austria1789)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Bad Lauchst\u00e4dt (Germany1793)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany1793)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Pillnitz (Germany1790)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany1795)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany1793)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "La scuola dei maritati",
+                    "children": [
+                        {
+                            "name": "London (United Kingdom1795)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy1795)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Vienna (Austria1796)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Udine (Italy1800)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany1799)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "L'arbore di Diana",
+                    "children": [
+                        {
+                            "name": "Vienna (Austria1787)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany1793)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Donaueschingen (Germany1789)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Braunschweig (Germany1789)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany1788)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy1783)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Vienna (Austria1787)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Le nozze di Figaro",
+                    "children": [
+                        {
+                            "name": "Vienna (Austria1786)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany1793)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany1815)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany1829)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Detmold (Germany1829)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Prague (Czech Republic1787)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Potsdam (Germany1790)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Una cosa rara",
+                    "children": [
+                        {
+                            "name": "Weimar (Germany1791)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Donaueschingen (Germany1788)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Detmold (Germany1827)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Osnabr\u00fcck (Germany1829)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Braunschweig (Germany1788)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Vienna (Austria1787)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Braunschweig (Germany1795)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Vienna (Austria1786)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy1788)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Bologna (Italy1788)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy1789)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Faenza (Italy1790)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Rome (Italy1788)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "L: Bertati Giovanni",
+            "children": [
+                {
+                    "name": "Azor re di Kibinga",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1779)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "I Filosofi immaginari",
+                    "children": [
+                        {
+                            "name": "Saint Petersburg (Russia1779)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Pillnitz (Germany1793)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany1791)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy1782)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Saint Petersburg (Russia1779)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Paris (France1780)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Il curioso indiscreto",
+                    "children": [
+                        {
+                            "name": "Rome (Italy1777)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Il geloso in cimento",
+                    "children": [
+                        {
+                            "name": "Graz (Austria1779)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Castelnuovo di Val di Cecina (Italy1785)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy1788)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany1781)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Braunschweig (Germany1781)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Paris (France1779)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany1775)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Il matrimonio per inganno",
+                    "children": [
+                        {
+                            "name": "Florence (Italy1779)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Il matrimonio segreto",
+                    "children": [
+                        {
+                            "name": "Vienna (Austria1792)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany1792)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany1830)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany1796)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy1794)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Paris (France1801)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy1793)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dessau (Germany1796)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Isabella e Rodrigo",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1776)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Regensburg (Germany1785)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "L' Avaro",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1775)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Florence (Italy1777)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Braunschweig (Germany1782)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Paris (France1787)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Regensburg (Germany1775)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "La forza delle donne",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1778)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Turin (Italy1780)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Regensburg (Germany1785)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Braunschweig (Germany1781)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "La locanda",
+                    "children": [
+                        {
+                            "name": "London (United Kingdom1791)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy1792)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "L'imbroglio delle tre spose",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1781)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Florence (Italy1781)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Lo sposo disperato",
+                    "children": [
+                        {
+                            "name": "Bologna (Italy1777)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy1777)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy1778)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "L: Calzabigi Ranieri de",
+            "children": [
+                {
+                    "name": "Elfrida",
+                    "children": [
+                        {
+                            "name": "Naples (Italy1792)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Bologna (Italy1796)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy1782)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy1793)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy1794)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Verona (Italy1796)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Elvira",
+                    "children": [
+                        {
+                            "name": "Naples (Italy1794)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy1793)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "La finta giardiniera",
+                    "children": [
+                        {
+                            "name": "London (United Kingdom1775)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Frankfurt (Germany1782)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Paris (France1778)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy1775)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "L: Sografi Simeone Antonio",
+            "children": [
+                {
+                    "name": "Gli Orazi ed i Curiazi",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1796)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy1797)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Leipzig (Germany1786)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Rome (Italy1797)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Milan (Italy1798)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy1794)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Saffo",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1794)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Telemaco nell'isola di Calipso",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1797)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "L: Goldoni Carlo",
+            "children": [
+                {
+                    "name": "Il finto principe",
+                    "children": [
+                        {
+                            "name": "Florence (Italy1775)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Il geloso in cimento",
+                    "children": [
+                        {
+                            "name": "Weimar (Germany1791)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Prague (Czech Republic1775)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Il mondo della luna",
+                    "children": [
+                        {
+                            "name": "Saint Petersburg (Russia1782)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Saint Petersburg (Russia1783)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Il talismano",
+                    "children": [
+                        {
+                            "name": "Milan (Italy1779)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany1794)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "L\u2019incognita perseguitata",
+                    "children": [
+                        {
+                            "name": "Paris (France1776)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "La buona figliuola",
+                    "children": [
+                        {
+                            "name": "Regensburg (Germany1778)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Regensburg (Germany1782)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany1778)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hanover (Germany1777)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "La vanit\u00e0 delusa",
+                    "children": [
+                        {
+                            "name": "Florence (Italy1784)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "L: Mazzol\u00e0 Caterino",
+            "children": [
+                {
+                    "name": "Il servo padrone",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1794)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "La clemenza di Tito",
+                    "children": [
+                        {
+                            "name": "Prague (Czech Republic1791)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany1799)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Osnabr\u00fcck (Germany1825)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Osnabr\u00fcck (Germany1830)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Braunschweig (Germany1799)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Karlsruhe (Germany1812)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy1809)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "La scuola de' gelosi",
+                    "children": [
+                        {
+                            "name": "Venice (Italy1778)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany1795)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

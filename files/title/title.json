@@ -1,0 +1,1615 @@
+{
+    "name": "Opera",
+    "children": [
+        {
+            "name": "Achille in Sciro",
+            "children": [
+                {
+                    "name": "Paisiello Giovanni,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Saint Petersburg (Russia, 1778)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Adelaide di Guesclino",
+            "children": [
+                {
+                    "name": "Mayr Johann Simon,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1799)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany, 1808)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany, 1815)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Adriano in Siria",
+            "children": [
+                {
+                    "name": "Anfossi Pasquale,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Padua (Italy, 1777)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Mayr Johann Simon,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1798)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Alcide al bivio",
+            "children": [
+                {
+                    "name": "Paisiello Giovanni,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Saint Petersburg (Russia, 1780)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Alessandro nell'Indie",
+            "children": [
+                {
+                    "name": "Piccinni Niccol\u00f2,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Naples (Italy, 1775)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Cimarosa Domenico,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Rome (Italy, 1781)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Antigono",
+            "children": [
+                {
+                    "name": "Paisiello Giovanni,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Naples (Italy, 1785)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy, 1784)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy, 1795)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Anfossi Pasquale,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Bologna (Italy, 1782)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Artaserse",
+            "children": [
+                {
+                    "name": "Cimarosa Domenico,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Turin (Italy, 1784)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Turin (Italy, 1785)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Anfossi Pasquale,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Rome (Italy, 1788)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Piccinni Niccol\u00f2,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Naples (Italy, 1784)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Axur re d'Ormus",
+            "children": [
+                {
+                    "name": "Salieri Antonio,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "Dresden (Germany, 1789)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany, 1800)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Bonn (Germany, 1788)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Paris (France, 1803)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Braunschweig (Germany, 1794)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Paris (France, 1787)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Paris (France, 1786)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Vienna (Austria, 1787)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Vienna (Austria, 1788)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Azor re di Kibinga",
+            "children": [
+                {
+                    "name": "Anfossi Pasquale,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1779)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Caio Mario",
+            "children": [
+                {
+                    "name": "Cimarosa Domenico,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Rome (Italy, 1780)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Catone in Utica",
+            "children": [
+                {
+                    "name": "Paisiello Giovanni,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Naples (Italy, 1789)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Che originali",
+            "children": [
+                {
+                    "name": "Mayr Johann Simon,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1798)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Vienna (Austria, 1803)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy, 1815)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Genoa (Italy, 1802)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Padua (Italy, 1805)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cos\u00ec fan tutte",
+            "children": [
+                {
+                    "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "Vienna (Austria, 1790)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany, 1791)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany, 1830)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany, 1797)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Wroc\u0142aw (Poland, 1811)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Wroc\u0142aw (Poland, 1814)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Wroc\u0142aw (Poland, 1821)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Wroc\u0142aw (Poland, 1824)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Wroc\u0142aw (Poland, 1829)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Wroc\u0142aw (Poland, 1832)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Donaueschingen (Germany, 1791)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Osnabr\u00fcck (Germany, 1828)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dessau (Germany, 1805)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Didone abbandonata",
+            "children": [
+                {
+                    "name": "Paisiello Giovanni,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Naples (Italy, 1794)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Anfossi Pasquale,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1775)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy, 1788)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Piccinni Niccol\u00f2,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Naples (Italy, 1780)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Don Giovanni",
+            "children": [
+                {
+                    "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "Prague (Czech Republic, 1787)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Amsterdam (Netherlands, 1794)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany, 1814)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany, 1821)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany, 1832)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany, 1792)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany, 1789)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Vienna (Austria, 1788)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Elfrida",
+            "children": [
+                {
+                    "name": "Paisiello Giovanni,  Calzabigi Ranieri de",
+                    "children": [
+                        {
+                            "name": "Naples (Italy, 1792)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Bologna (Italy, 1796)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy, 1782)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy, 1793)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy, 1794)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Verona (Italy, 1796)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Elisa",
+            "children": [
+                {
+                    "name": "Mayr Johann Simon,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1804)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Valletta (Malta, 1801)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Elvira",
+            "children": [
+                {
+                    "name": "Paisiello Giovanni,  Calzabigi Ranieri de",
+                    "children": [
+                        {
+                            "name": "Naples (Italy, 1794)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy, 1793)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Emma di Resburgo",
+            "children": [
+                {
+                    "name": "Meyerbeer Giacomo,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1819)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Eraldo ed Emma",
+            "children": [
+                {
+                    "name": "Mayr Johann Simon,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Milan (Italy, 1805)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Ravenna (Italy, 1809)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ezio",
+            "children": [
+                {
+                    "name": "Anfossi Pasquale,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1778)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ginevra di Scozia",
+            "children": [
+                {
+                    "name": "Mayr Johann Simon,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Weimar (Germany, 1811)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Genoa (Italy, 1803)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Frankfurt (Germany, 1802)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy, 1801)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Gli Orazi ed i Curiazi",
+            "children": [
+                {
+                    "name": "Cimarosa Domenico,  Sografi Simeone Antonio",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1796)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy, 1797)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Leipzig (Germany, 1786)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Rome (Italy, 1797)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Milan (Italy, 1798)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy, 1794)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Gli sciti",
+            "children": [
+                {
+                    "name": "Mayr Johann Simon,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1800)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "I cherusci",
+            "children": [
+                {
+                    "name": "Mayr Johann Simon,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Rome (Italy, 1808)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "I Filosofi immaginari",
+            "children": [
+                {
+                    "name": "Paisiello Giovanni,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Saint Petersburg (Russia, 1779)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Pillnitz (Germany, 1793)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany, 1791)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy, 1782)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Saint Petersburg (Russia, 1779)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Paris (France, 1780)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Il burbero di buon cuore",
+            "children": [
+                {
+                    "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "Vienna (Austria, 1786)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Il crociato in Egitto",
+            "children": [
+                {
+                    "name": "Meyerbeer Giacomo,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Detmold (Germany, 1833)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy, 1824)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany, 1832)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Il curioso indiscreto",
+            "children": [
+                {
+                    "name": "Anfossi Pasquale,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Rome (Italy, 1777)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Il Demetrio",
+            "children": [
+                {
+                    "name": "Paisiello Giovanni,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Tsarskoye Selo (Russia, 1779)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Il Demofoonte",
+            "children": [
+                {
+                    "name": "Paisiello Giovanni,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1775)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Il finto principe",
+            "children": [
+                {
+                    "name": "Paisiello Giovanni,  Goldoni Carlo",
+                    "children": [
+                        {
+                            "name": "Florence (Italy, 1775)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Il geloso in cimento",
+            "children": [
+                {
+                    "name": "Anfossi Pasquale,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Graz (Austria, 1779)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Castelnuovo di Val di Cecina (Italy, 1785)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy, 1788)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany, 1781)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Braunschweig (Germany, 1781)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Paris (France, 1779)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany, 1775)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Anfossi Pasquale,  Goldoni Carlo",
+                    "children": [
+                        {
+                            "name": "Weimar (Germany, 1791)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Prague (Czech Republic, 1775)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Il matrimonio per inganno",
+            "children": [
+                {
+                    "name": "Anfossi Pasquale,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Florence (Italy, 1779)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Il matrimonio segreto",
+            "children": [
+                {
+                    "name": "Cimarosa Domenico,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Vienna (Austria, 1792)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany, 1792)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany, 1830)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany, 1796)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy, 1794)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Paris (France, 1801)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy, 1793)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dessau (Germany, 1796)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Il mondo della luna",
+            "children": [
+                {
+                    "name": "Paisiello Giovanni,  Goldoni Carlo",
+                    "children": [
+                        {
+                            "name": "Saint Petersburg (Russia, 1782)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Saint Petersburg (Russia, 1783)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Il re pastore",
+            "children": [
+                {
+                    "name": "Mozart Wolfgang Amadeus,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Salzburg (Austria, 1775)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Il servo padrone",
+            "children": [
+                {
+                    "name": "Piccinni Niccol\u00f2,  Mazzol\u00e0 Caterino",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1794)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Il talismano",
+            "children": [
+                {
+                    "name": "Salieri Antonio,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "Vienna (Austria, 1788)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Salieri Antonio,  Goldoni Carlo",
+                    "children": [
+                        {
+                            "name": "Milan (Italy, 1779)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany, 1794)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ipermestra",
+            "children": [
+                {
+                    "name": "Martin y Soler Vicente,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Naples (Italy, 1780)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Isabella e Rodrigo",
+            "children": [
+                {
+                    "name": "Anfossi Pasquale,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1776)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Regensburg (Germany, 1785)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "L' Amor coniugale",
+            "children": [
+                {
+                    "name": "Mayr Johann Simon,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Padua (Italy, 1805)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Genoa (Italy, 1807)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "L' Avaro",
+            "children": [
+                {
+                    "name": "Anfossi Pasquale,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1775)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Florence (Italy, 1777)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Braunschweig (Germany, 1782)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Paris (France, 1787)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Regensburg (Germany, 1775)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "L\u2019incognita perseguitata",
+            "children": [
+                {
+                    "name": "Anfossi Pasquale,  Goldoni Carlo",
+                    "children": [
+                        {
+                            "name": "Paris (France, 1776)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "La buona figliuola",
+            "children": [
+                {
+                    "name": "Piccinni Niccol\u00f2,  Goldoni Carlo",
+                    "children": [
+                        {
+                            "name": "Regensburg (Germany, 1778)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Regensburg (Germany, 1782)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany, 1778)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hanover (Germany, 1777)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "La cifra",
+            "children": [
+                {
+                    "name": "Salieri Antonio,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "Vienna (Austria, 1789)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Bad Lauchst\u00e4dt (Germany, 1793)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany, 1793)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Pillnitz (Germany, 1790)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany, 1795)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany, 1793)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "La clemenza di Tito",
+            "children": [
+                {
+                    "name": "Mozart Wolfgang Amadeus,  Mazzol\u00e0 Caterino",
+                    "children": [
+                        {
+                            "name": "Prague (Czech Republic, 1791)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany, 1799)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Osnabr\u00fcck (Germany, 1825)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Osnabr\u00fcck (Germany, 1830)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Braunschweig (Germany, 1799)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Karlsruhe (Germany, 1812)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy, 1809)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "La finta giardiniera",
+            "children": [
+                {
+                    "name": "Anfossi Pasquale,  Calzabigi Ranieri de",
+                    "children": [
+                        {
+                            "name": "London (United Kingdom, 1775)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Frankfurt (Germany, 1782)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Paris (France, 1778)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy, 1775)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "La forza delle donne",
+            "children": [
+                {
+                    "name": "Anfossi Pasquale,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1778)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Turin (Italy, 1780)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Regensburg (Germany, 1785)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Braunschweig (Germany, 1781)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "La locanda",
+            "children": [
+                {
+                    "name": "Paisiello Giovanni,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "London (United Kingdom, 1791)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy, 1792)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "La roccia di Frauenstein",
+            "children": [
+                {
+                    "name": "Mayr Johann Simon,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1805)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "La scuola de' gelosi",
+            "children": [
+                {
+                    "name": "Salieri Antonio,  Mazzol\u00e0 Caterino",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1778)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany, 1795)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "La scuola dei maritati",
+            "children": [
+                {
+                    "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "London (United Kingdom, 1795)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy, 1795)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Vienna (Austria, 1796)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Udine (Italy, 1800)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany, 1799)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "La vanit\u00e0 delusa",
+            "children": [
+                {
+                    "name": "Cimarosa Domenico,  Goldoni Carlo",
+                    "children": [
+                        {
+                            "name": "Florence (Italy, 1784)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "L'arbore di Diana",
+            "children": [
+                {
+                    "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "Vienna (Austria, 1787)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany, 1793)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Donaueschingen (Germany, 1789)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Braunschweig (Germany, 1789)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany, 1788)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy, 1783)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Vienna (Austria, 1787)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Le nozze di Figaro",
+            "children": [
+                {
+                    "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "Vienna (Austria, 1786)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany, 1793)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany, 1815)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dresden (Germany, 1829)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Detmold (Germany, 1829)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Prague (Czech Republic, 1787)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Potsdam (Germany, 1790)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "L'eroe cinese",
+            "children": [
+                {
+                    "name": "Cimarosa Domenico,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Naples (Italy, 1782)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "L'imbroglio delle tre spose",
+            "children": [
+                {
+                    "name": "Anfossi Pasquale,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1781)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Florence (Italy, 1781)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Lo sposo disperato",
+            "children": [
+                {
+                    "name": "Anfossi Pasquale,  Bertati Giovanni",
+                    "children": [
+                        {
+                            "name": "Bologna (Italy, 1777)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy, 1777)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy, 1778)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "L'Olimpiade",
+            "children": [
+                {
+                    "name": "Cimarosa Domenico,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Vicenza (Italy, 1784)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy, 1784)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Nitteti",
+            "children": [
+                {
+                    "name": "Anfossi Pasquale,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1780)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Paisiello Giovanni,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Saint Petersburg (Russia, 1777)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Saint Petersburg (Russia, 1778)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Olimpiade",
+            "children": [
+                {
+                    "name": "Paisiello Giovanni,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Naples (Italy, 1786)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy, 1796)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Cimarosa Domenico,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Vicenza (Italy, 1784)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Anfossi Pasquale,  Metastasio Pietro",
+                    "children": [
+                        {
+                            "name": "Rome (Italy, 1778)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Saffo",
+            "children": [
+                {
+                    "name": "Mayr Johann Simon,  Sografi Simeone Antonio",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1794)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Semiramide",
+            "children": [
+                {
+                    "name": "Rossini Gioachino,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Weimar (Germany, 1825)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy, 1823)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Hamburg (Germany, 1830)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tancredi",
+            "children": [
+                {
+                    "name": "Rossini Gioachino,  Rossi Gaetano",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1813)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Weimar (Germany, 1817)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Telemaco nell'isola di Calipso",
+            "children": [
+                {
+                    "name": "Mayr Johann Simon,  Sografi Simeone Antonio",
+                    "children": [
+                        {
+                            "name": "Venice (Italy, 1797)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Una cosa rara",
+            "children": [
+                {
+                    "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                    "children": [
+                        {
+                            "name": "Weimar (Germany, 1791)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Donaueschingen (Germany, 1788)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Detmold (Germany, 1827)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Osnabr\u00fcck (Germany, 1829)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Braunschweig (Germany, 1788)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Vienna (Austria, 1787)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Braunschweig (Germany, 1795)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Vienna (Austria, 1786)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Venice (Italy, 1788)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Bologna (Italy, 1788)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Naples (Italy, 1789)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Faenza (Italy, 1790)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Rome (Italy, 1788)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

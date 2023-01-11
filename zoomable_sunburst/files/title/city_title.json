@@ -1,0 +1,2950 @@
+{
+    "name": "Opera",
+    "children": [
+        {
+            "name": "Saint Petersburg",
+            "children": [
+                {
+                    "name": "Achille in Sciro",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Russia 1778",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Alcide al bivio",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Russia 1780",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "I Filosofi immaginari",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Russia 1779",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Russia 1779",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il mondo della luna",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Goldoni Carlo",
+                            "children": [
+                                {
+                                    "name": "Russia 1782",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Russia 1783",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nitteti",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Russia 1777",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Russia 1778",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Venice",
+            "children": [
+                {
+                    "name": "Adelaide di Guesclino",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Italy 1799",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Adriano in Siria",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1798",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Azor re di Kibinga",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Italy 1779",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Che originali",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Italy 1798",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Italy 1815",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Didone abbandonata",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1775",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Elisa",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Italy 1804",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Emma di Resburgo",
+                    "children": [
+                        {
+                            "name": "Meyerbeer Giacomo,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Italy 1819",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ezio",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1778",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Gli Orazi ed i Curiazi",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Sografi Simeone Antonio",
+                            "children": [
+                                {
+                                    "name": "Italy 1796",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Italy 1797",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Italy 1794",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Gli sciti",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Italy 1800",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "I Filosofi immaginari",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Italy 1782",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il crociato in Egitto",
+                    "children": [
+                        {
+                            "name": "Meyerbeer Giacomo,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Italy 1824",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il Demofoonte",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1775",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il matrimonio segreto",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Italy 1794",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il servo padrone",
+                    "children": [
+                        {
+                            "name": "Piccinni Niccol\u00f2,  Mazzol\u00e0 Caterino",
+                            "children": [
+                                {
+                                    "name": "Italy 1794",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Isabella e Rodrigo",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Italy 1776",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L' Avaro",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Italy 1775",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La forza delle donne",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Italy 1778",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La roccia di Frauenstein",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Italy 1805",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La scuola de' gelosi",
+                    "children": [
+                        {
+                            "name": "Salieri Antonio,  Mazzol\u00e0 Caterino",
+                            "children": [
+                                {
+                                    "name": "Italy 1778",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La scuola dei maritati",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Italy 1795",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L'arbore di Diana",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Italy 1783",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L'imbroglio delle tre spose",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Italy 1781",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Lo sposo disperato",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Italy 1777",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Italy 1778",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L'Olimpiade",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1784",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nitteti",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1780",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Saffo",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Sografi Simeone Antonio",
+                            "children": [
+                                {
+                                    "name": "Italy 1794",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Semiramide",
+                    "children": [
+                        {
+                            "name": "Rossini Gioachino,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Italy 1823",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tancredi",
+                    "children": [
+                        {
+                            "name": "Rossini Gioachino,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Italy 1813",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Telemaco nell'isola di Calipso",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Sografi Simeone Antonio",
+                            "children": [
+                                {
+                                    "name": "Italy 1797",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Una cosa rara",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Italy 1788",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Dresden",
+            "children": [
+                {
+                    "name": "Adelaide di Guesclino",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Germany 1808",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Axur re d'Ormus",
+                    "children": [
+                        {
+                            "name": "Salieri Antonio,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1789",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cos\u00ec fan tutte",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1791",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Germany 1830",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Don Giovanni",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1814",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Germany 1821",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Germany 1832",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il geloso in cimento",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Germany 1775",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il matrimonio segreto",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Germany 1792",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Germany 1830",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Le nozze di Figaro",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1815",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Germany 1829",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Hamburg",
+            "children": [
+                {
+                    "name": "Adelaide di Guesclino",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Germany 1815",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Don Giovanni",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1789",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il crociato in Egitto",
+                    "children": [
+                        {
+                            "name": "Meyerbeer Giacomo,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Germany 1832",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il geloso in cimento",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Germany 1781",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il talismano",
+                    "children": [
+                        {
+                            "name": "Salieri Antonio,  Goldoni Carlo",
+                            "children": [
+                                {
+                                    "name": "Germany 1794",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La buona figliuola",
+                    "children": [
+                        {
+                            "name": "Piccinni Niccol\u00f2,  Goldoni Carlo",
+                            "children": [
+                                {
+                                    "name": "Germany 1778",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La cifra",
+                    "children": [
+                        {
+                            "name": "Salieri Antonio,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1793",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La scuola de' gelosi",
+                    "children": [
+                        {
+                            "name": "Salieri Antonio,  Mazzol\u00e0 Caterino",
+                            "children": [
+                                {
+                                    "name": "Germany 1795",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L'arbore di Diana",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1788",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Semiramide",
+                    "children": [
+                        {
+                            "name": "Rossini Gioachino,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Germany 1830",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Padua",
+            "children": [
+                {
+                    "name": "Adriano in Siria",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1777",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Che originali",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Italy 1805",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L' Amor coniugale",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Italy 1805",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Naples",
+            "children": [
+                {
+                    "name": "Alessandro nell'Indie",
+                    "children": [
+                        {
+                            "name": "Piccinni Niccol\u00f2,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1775",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Antigono",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1785",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Italy 1784",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Italy 1795",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Artaserse",
+                    "children": [
+                        {
+                            "name": "Piccinni Niccol\u00f2,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1784",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Catone in Utica",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1789",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Didone abbandonata",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1794",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Anfossi Pasquale,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1788",
+                                    "value": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Piccinni Niccol\u00f2,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1780",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Elfrida",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Calzabigi Ranieri de",
+                            "children": [
+                                {
+                                    "name": "Italy 1792",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Italy 1782",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Italy 1793",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Italy 1794",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Elvira",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Calzabigi Ranieri de",
+                            "children": [
+                                {
+                                    "name": "Italy 1794",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Italy 1793",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ginevra di Scozia",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Italy 1801",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il geloso in cimento",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Italy 1788",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il matrimonio segreto",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Italy 1793",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ipermestra",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1780",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La clemenza di Tito",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Mazzol\u00e0 Caterino",
+                            "children": [
+                                {
+                                    "name": "Italy 1809",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La finta giardiniera",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Calzabigi Ranieri de",
+                            "children": [
+                                {
+                                    "name": "Italy 1775",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La locanda",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Italy 1792",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L'eroe cinese",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1782",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Olimpiade",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1786",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Italy 1796",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Una cosa rara",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Italy 1789",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Rome",
+            "children": [
+                {
+                    "name": "Alessandro nell'Indie",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1781",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Artaserse",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1788",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Caio Mario",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1780",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Gli Orazi ed i Curiazi",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Sografi Simeone Antonio",
+                            "children": [
+                                {
+                                    "name": "Italy 1797",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "I cherusci",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Italy 1808",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il curioso indiscreto",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Italy 1777",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Olimpiade",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1778",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Una cosa rara",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Italy 1788",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bologna",
+            "children": [
+                {
+                    "name": "Antigono",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1782",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Elfrida",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Calzabigi Ranieri de",
+                            "children": [
+                                {
+                                    "name": "Italy 1796",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Lo sposo disperato",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Italy 1777",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Una cosa rara",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Italy 1788",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Turin",
+            "children": [
+                {
+                    "name": "Artaserse",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1784",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Italy 1785",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La forza delle donne",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Italy 1780",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Weimar",
+            "children": [
+                {
+                    "name": "Axur re d'Ormus",
+                    "children": [
+                        {
+                            "name": "Salieri Antonio,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1800",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cos\u00ec fan tutte",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1797",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Don Giovanni",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1792",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ginevra di Scozia",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Germany 1811",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "I Filosofi immaginari",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Germany 1791",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il geloso in cimento",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Goldoni Carlo",
+                            "children": [
+                                {
+                                    "name": "Germany 1791",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il matrimonio segreto",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Germany 1796",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La cifra",
+                    "children": [
+                        {
+                            "name": "Salieri Antonio,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1793",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Germany 1795",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La clemenza di Tito",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Mazzol\u00e0 Caterino",
+                            "children": [
+                                {
+                                    "name": "Germany 1799",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La scuola dei maritati",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1799",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L'arbore di Diana",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1793",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Le nozze di Figaro",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1793",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Semiramide",
+                    "children": [
+                        {
+                            "name": "Rossini Gioachino,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Germany 1825",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tancredi",
+                    "children": [
+                        {
+                            "name": "Rossini Gioachino,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Germany 1817",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Una cosa rara",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1791",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bonn",
+            "children": [
+                {
+                    "name": "Axur re d'Ormus",
+                    "children": [
+                        {
+                            "name": "Salieri Antonio,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1788",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Paris",
+            "children": [
+                {
+                    "name": "Axur re d'Ormus",
+                    "children": [
+                        {
+                            "name": "Salieri Antonio,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "France 1803",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "France 1787",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "France 1786",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "I Filosofi immaginari",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "France 1780",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il geloso in cimento",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "France 1779",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il matrimonio segreto",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "France 1801",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L' Avaro",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "France 1787",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L\u2019incognita perseguitata",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Goldoni Carlo",
+                            "children": [
+                                {
+                                    "name": "France 1776",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La finta giardiniera",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Calzabigi Ranieri de",
+                            "children": [
+                                {
+                                    "name": "France 1778",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Braunschweig",
+            "children": [
+                {
+                    "name": "Axur re d'Ormus",
+                    "children": [
+                        {
+                            "name": "Salieri Antonio,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1794",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il geloso in cimento",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Germany 1781",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L' Avaro",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Germany 1782",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La clemenza di Tito",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Mazzol\u00e0 Caterino",
+                            "children": [
+                                {
+                                    "name": "Germany 1799",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La forza delle donne",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Germany 1781",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L'arbore di Diana",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1789",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Una cosa rara",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1788",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Germany 1795",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Vienna",
+            "children": [
+                {
+                    "name": "Axur re d'Ormus",
+                    "children": [
+                        {
+                            "name": "Salieri Antonio,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Austria 1787",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Austria 1788",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Che originali",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Austria 1803",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cos\u00ec fan tutte",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Austria 1790",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Don Giovanni",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Austria 1788",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il burbero di buon cuore",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Austria 1786",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il matrimonio segreto",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Austria 1792",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il talismano",
+                    "children": [
+                        {
+                            "name": "Salieri Antonio,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Austria 1788",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La cifra",
+                    "children": [
+                        {
+                            "name": "Salieri Antonio,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Austria 1789",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La scuola dei maritati",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Austria 1796",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L'arbore di Diana",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Austria 1787",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Austria 1787",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Le nozze di Figaro",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Austria 1786",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Una cosa rara",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Austria 1787",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Austria 1786",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Genoa",
+            "children": [
+                {
+                    "name": "Che originali",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Italy 1802",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ginevra di Scozia",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Italy 1803",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L' Amor coniugale",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Italy 1807",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Wroc\u0142aw",
+            "children": [
+                {
+                    "name": "Cos\u00ec fan tutte",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Poland 1811",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Poland 1814",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Poland 1821",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Poland 1824",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Poland 1829",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Poland 1832",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Donaueschingen",
+            "children": [
+                {
+                    "name": "Cos\u00ec fan tutte",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1791",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L'arbore di Diana",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1789",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Una cosa rara",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1788",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Osnabr\u00fcck",
+            "children": [
+                {
+                    "name": "Cos\u00ec fan tutte",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1828",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La clemenza di Tito",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Mazzol\u00e0 Caterino",
+                            "children": [
+                                {
+                                    "name": "Germany 1825",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Germany 1830",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Una cosa rara",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1829",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Dessau",
+            "children": [
+                {
+                    "name": "Cos\u00ec fan tutte",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1805",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il matrimonio segreto",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Germany 1796",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Prague",
+            "children": [
+                {
+                    "name": "Don Giovanni",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Czech Republic 1787",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il geloso in cimento",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Goldoni Carlo",
+                            "children": [
+                                {
+                                    "name": "Czech Republic 1775",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La clemenza di Tito",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Mazzol\u00e0 Caterino",
+                            "children": [
+                                {
+                                    "name": "Czech Republic 1791",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Le nozze di Figaro",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Czech Republic 1787",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Amsterdam",
+            "children": [
+                {
+                    "name": "Don Giovanni",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Netherlands 1794",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Verona",
+            "children": [
+                {
+                    "name": "Elfrida",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Calzabigi Ranieri de",
+                            "children": [
+                                {
+                                    "name": "Italy 1796",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Valletta",
+            "children": [
+                {
+                    "name": "Elisa",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Malta 1801",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Milan",
+            "children": [
+                {
+                    "name": "Eraldo ed Emma",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Italy 1805",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Gli Orazi ed i Curiazi",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Sografi Simeone Antonio",
+                            "children": [
+                                {
+                                    "name": "Italy 1798",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il talismano",
+                    "children": [
+                        {
+                            "name": "Salieri Antonio,  Goldoni Carlo",
+                            "children": [
+                                {
+                                    "name": "Italy 1779",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ravenna",
+            "children": [
+                {
+                    "name": "Eraldo ed Emma",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Italy 1809",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Frankfurt",
+            "children": [
+                {
+                    "name": "Ginevra di Scozia",
+                    "children": [
+                        {
+                            "name": "Mayr Johann Simon,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Germany 1802",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La finta giardiniera",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Calzabigi Ranieri de",
+                            "children": [
+                                {
+                                    "name": "Germany 1782",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Leipzig",
+            "children": [
+                {
+                    "name": "Gli Orazi ed i Curiazi",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Sografi Simeone Antonio",
+                            "children": [
+                                {
+                                    "name": "Germany 1786",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Pillnitz",
+            "children": [
+                {
+                    "name": "I Filosofi immaginari",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Germany 1793",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La cifra",
+                    "children": [
+                        {
+                            "name": "Salieri Antonio,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1790",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Detmold",
+            "children": [
+                {
+                    "name": "Il crociato in Egitto",
+                    "children": [
+                        {
+                            "name": "Meyerbeer Giacomo,  Rossi Gaetano",
+                            "children": [
+                                {
+                                    "name": "Germany 1833",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Le nozze di Figaro",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1829",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Una cosa rara",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1827",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tsarskoye Selo",
+            "children": [
+                {
+                    "name": "Il Demetrio",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Russia 1779",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Florence",
+            "children": [
+                {
+                    "name": "Il finto principe",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Goldoni Carlo",
+                            "children": [
+                                {
+                                    "name": "Italy 1775",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Il matrimonio per inganno",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Italy 1779",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L' Avaro",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Italy 1777",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La vanit\u00e0 delusa",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Goldoni Carlo",
+                            "children": [
+                                {
+                                    "name": "Italy 1784",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L'imbroglio delle tre spose",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Italy 1781",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Graz",
+            "children": [
+                {
+                    "name": "Il geloso in cimento",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Austria 1779",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Castelnuovo di Val di Cecina",
+            "children": [
+                {
+                    "name": "Il geloso in cimento",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Italy 1785",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Salzburg",
+            "children": [
+                {
+                    "name": "Il re pastore",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Austria 1775",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Regensburg",
+            "children": [
+                {
+                    "name": "Isabella e Rodrigo",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Germany 1785",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "L' Avaro",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Germany 1775",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La buona figliuola",
+                    "children": [
+                        {
+                            "name": "Piccinni Niccol\u00f2,  Goldoni Carlo",
+                            "children": [
+                                {
+                                    "name": "Germany 1778",
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Germany 1782",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La forza delle donne",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "Germany 1785",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Hanover",
+            "children": [
+                {
+                    "name": "La buona figliuola",
+                    "children": [
+                        {
+                            "name": "Piccinni Niccol\u00f2,  Goldoni Carlo",
+                            "children": [
+                                {
+                                    "name": "Germany 1777",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bad Lauchst\u00e4dt",
+            "children": [
+                {
+                    "name": "La cifra",
+                    "children": [
+                        {
+                            "name": "Salieri Antonio,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1793",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Karlsruhe",
+            "children": [
+                {
+                    "name": "La clemenza di Tito",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Mazzol\u00e0 Caterino",
+                            "children": [
+                                {
+                                    "name": "Germany 1812",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "London",
+            "children": [
+                {
+                    "name": "La finta giardiniera",
+                    "children": [
+                        {
+                            "name": "Anfossi Pasquale,  Calzabigi Ranieri de",
+                            "children": [
+                                {
+                                    "name": "United Kingdom 1775",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La locanda",
+                    "children": [
+                        {
+                            "name": "Paisiello Giovanni,  Bertati Giovanni",
+                            "children": [
+                                {
+                                    "name": "United Kingdom 1791",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "La scuola dei maritati",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "United Kingdom 1795",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Udine",
+            "children": [
+                {
+                    "name": "La scuola dei maritati",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Italy 1800",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Potsdam",
+            "children": [
+                {
+                    "name": "Le nozze di Figaro",
+                    "children": [
+                        {
+                            "name": "Mozart Wolfgang Amadeus,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Germany 1790",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Vicenza",
+            "children": [
+                {
+                    "name": "L'Olimpiade",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1784",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Olimpiade",
+                    "children": [
+                        {
+                            "name": "Cimarosa Domenico,  Metastasio Pietro",
+                            "children": [
+                                {
+                                    "name": "Italy 1784",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Faenza",
+            "children": [
+                {
+                    "name": "Una cosa rara",
+                    "children": [
+                        {
+                            "name": "Martin y Soler Vicente,  Da Ponte Lorenzo",
+                            "children": [
+                                {
+                                    "name": "Italy 1790",
+                                    "value": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Opera</title>
+<link rel="stylesheet" type="text/css" href="./zoomable_treemap/inspector.css">
+
+<html>
+<style>
+    .button {
+    background-color: blue; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    }
+    .button2:hover {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+    div {
+        font-family: Arial, Helvetica, sans-serif;
+        transition:opacity 500ms, width 0.1s ease-in-out;
+        
+        
+    }
+
+    #svg_container {
+        position: absolute;
+        z-index: 9;
+        text-align: center;
+        opacity: 0;
+        transition: opacity 500ms, width 0.1s ease-in-out;
+    }
+    
+    #svg_container.show {
+    opacity: 1;
+    }
+  
+
+    @keyframes fade{
+        20%{
+        opacity: 1;
+        }
+        80%{
+        opacity: 1;
+        }
+    }
+
+
+    .line {
+        position: relative;
+        margin-top: -4%;
+        margin-left: 40%;
+        margin-right: 40%;
+        height: 3px;
+        z-index: -1;
+    }
+
+    .blue {
+        background: blue;
+    }
+
+    .red {
+        background: #ff1900;
+    }
+
+    .brown {
+        background: #8a4e00;
+    }
+
+    .violet {
+        background: #f000e8;
+    }
+
+    .green {
+        background: green;
+    }
+
+    h3 {
+        margin: auto;
+    }
+    div.filter_options {
+        position: fixed;
+        top: 8px;
+        right: 16px;
+        font-size: 20px;
+        background-color: white;
+        
+        
+        
+      }
+    h1.title_chart{
+        position: fixed;
+        top: 8px;
+        left: 16px;
+        font-size: 30px;
+        background-color: beige;
+    }
+
+    html{
+        background-color:rgb(255, 255, 255);
+    }
+
+    body{
+        height: 100px;
+        width: 100px;
+        background-color: rgb(255, 255, 255);
+    }
+
+    body:fullscreen {
+        overflow: scroll !important;
+    }
+        body:-ms-fullscreen {
+        overflow: scroll !important;
+    }
+    body:-webkit-full-screen {
+        overflow: scroll !important;
+    }
+        body:-moz-full-screen {
+        overflow: scroll !important;
+    }
+
+    
+    
+
+
+</style>
+
+<head>
+    <title>Opera Data Visualization</title>
+</head>
+
+<body>
+    
+
+    
+
+    <div id="container">
+
+        <div class="filter_options" style="width: 17%; float:right;">
+            <div style="margin-left: 3%;">
+                <h2>Filter options</h2>
+                <button class="button button2" onclick="openFullscreen();">Open Chart in Fullscreen Mode</button>
+                <hr>
+                <i> - C: composer</i><br>
+                <i> - L: librettist</i><br>
+                <i> - Composer, Librettist</i>
+                <hr>
+    
+                <h3>Chart zoom</h3>
+                <input id="zoom_intensity" type="range" min="0" max="80" value="80">
+                <hr>
+                
+                <h3>Vizualization type</h3>
+                <hr>
+
+                <span>
+                    
+                    <span>
+                      <input id="sunburst" type="radio" name="type_of_visualization" checked="checked">
+                      <span>Sunburst</span>
+                    </span>
+                    <br>
+                    <span>
+                        <input id="treemap" type="radio" name="type_of_visualization">
+                        <span>Treemap</span>
+                      
+                    </span>
+                    <br>
+                </span>
+                <hr>
+                <h3>Focus on</h3>
+                <hr>
+                
+                <span>
+                    <b>Composer</b><br>
+                    <span>
+                      <input id="radio_comp_country" type="radio" name="type_of_data" checked="checked">
+                      <span>Country</span>
+                    </span>
+                    <br>
+                    <span>
+                        <input id="radio_comp_city" type="radio" name="type_of_data">
+                        <span>City</span>
+                      
+                    </span>
+                    <br>
+                    <span>
+                        <input id="radio_comp" type="radio" name="type_of_data">
+                        <span>Composer</span>
+                    </span>
+                    <hr>
+
+                    <b>Librettist</b><br>
+                    <span>
+                      <input id="radio_lib_country" type="radio" name="type_of_data">
+                      <span>Country</span>
+                    </span>
+                    <br>
+                    <span>
+                        <input id="radio_lib_city" type="radio" name="type_of_data">
+                        <span>City</span>
+                      
+                    </span>
+                    <br>
+                    <span>
+                        <input id="radio_lib" type="radio" name="type_of_data">
+                        <span>Librettist</span>
+                    </span>
+                    <hr>
+
+
+                    <b>Composer - Librettist</b><br>
+                    <span>
+                      <input id="radio_comp_lib_country" type="radio" name="type_of_data">
+                      <span>Country</span>
+                    </span>
+                    <br>
+                    <span>
+                        <input id="radio_comp_lib_city" type="radio" name="type_of_data">
+                        <span>City</span>
+                      
+                    </span>
+                    <br>
+                    <span>
+                        <input id="radio_comp_lib" type="radio" name="type_of_data">
+                        <span>Composer - Librettist</span>
+                    </span>
+                    <hr>
+
+
+                    <b>Year</b><br>
+                    <span>
+                      <input id="radio_comp_year" type="radio" name="type_of_data">
+                      <span>Composer</span>
+                    </span>
+                    <br>
+                    <span>
+                        <input id="radio_lib_year" type="radio" name="type_of_data">
+                        <span>Librettist</span>
+                      
+                    </span>
+                    <br>
+                    <span>
+                        <input id="radio_comp_lib_year" type="radio" name="type_of_data">
+                        <span>Composer - Librettist</span>
+                    </span>
+                    
+                </span>
+
+            </div>
+        </div>
+        <!--<div id="svg_container" style="width: 80%; float:left; border: solid; box-sizing: border-box;"></div>-->
+        <div id="svg_container" class="svg_container_class" style="width: 80%; float:center"></div>
+       
+    </div>
+</body>
+</html>
+
+<script src="https://d3js.org/d3.v4.min.js" type="module"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+
+<script type="module">
+
+
+    // destination will be created or overwritten by default.
+    import define from "./zoomable_sunburst/index.js";
+    import { Runtime, Library, Inspector } from "./zoomable_sunburst/runtime.js";
+
+    var modulePath = "./zoomable_sunburst/index.js";
+    var runtimePath = "./zoomable_sunburst/runtime.js";
+
+    document.getElementById("svg_container").style.top = (30) + "px";
+    document.getElementById("svg_container").style.left = (30) + "px";
+
+
+    window.globalVar = "./files/composer/country_composer.json";
+    const runtime = new Runtime();
+    const main = runtime.module(define, Inspector.into(document.getElementById("svg_container")));
+    document.getElementById("svg_container").classList.add('show');
+
+  
+
+
+
+    async function update_focus(){
+        const { default: define } = await import(modulePath);
+        const { Runtime, Library, Inspector } = await import(runtimePath);
+        document.getElementById("svg_container").classList.remove('show');
+        await wait_async(10);
+        document.getElementById("svg_container").innerHTML = ""
+        //document.getElementById("svg_container").innerHTML = ""
+        const runtime = new Runtime();
+        const main = runtime.module(define, Inspector.into(document.getElementById("svg_container")));
+        document.getElementById("svg_container").classList.add('show');
+    }
+
+    var sunburst = document.getElementById("sunburst");
+    sunburst.addEventListener('change', async function () {
+        if (this.checked) {
+            modulePath = "./zoomable_sunburst/index.js";
+            runtimePath = "./zoomable_sunburst/runtime.js";
+            update_focus();
+        }
+    });
+
+    var treemap = document.getElementById("treemap");
+    treemap.addEventListener('change', async function () {
+        if (this.checked) {
+            modulePath = "./zoomable_treemap/index.js";
+            runtimePath = "./zoomable_treemap/runtime.js";
+            update_focus();
+        }
+        
+    });
+    
+    var composer_country = document.getElementById("radio_comp_country");
+    composer_country.addEventListener('change', async function () {
+        if (this.checked) {
+            window.globalVar = "./files/composer/country_composer.json";
+            update_focus();
+        }
+    });
+
+
+    var composer_city = document.getElementById("radio_comp_city");
+    composer_city.addEventListener('change', async function () {
+        if (this.checked) {
+            window.globalVar = "./files/composer/city_composer.json";
+            update_focus();
+        }
+    });
+
+    var composer = document.getElementById("radio_comp");
+    composer.addEventListener('change', async function () {
+        if (this.checked) {
+            window.globalVar = "./files/composer/composer.json";
+            update_focus();
+        }
+    });
+    
+    var librettist_country = document.getElementById("radio_lib_country");
+    librettist_country.addEventListener('change', async function () {
+        if (this.checked) {
+            window.globalVar = "./files/librettist/country_librettist.json";
+            update_focus();
+        }
+    });
+
+    var librettist_city = document.getElementById("radio_lib_city");
+    librettist_city.addEventListener('change', async function () {
+        if (this.checked) {
+            window.globalVar = "./files/librettist/city_librettist.json";
+            update_focus();
+        }
+    });
+
+    var librettist = document.getElementById("radio_lib");
+    librettist.addEventListener('change', async function () {
+        if (this.checked) {
+            window.globalVar = "./files/librettist/librettist.json";
+            update_focus();
+        } 
+    });
+
+    var comp_lib_country = document.getElementById("radio_comp_lib_country");
+    comp_lib_country.addEventListener('change', async function () {
+        if (this.checked) {
+            window.globalVar = "./files/composer-librettist/country_composer-librettist.json";
+            update_focus();
+        }
+    });
+
+    var comp_lib_city = document.getElementById("radio_comp_lib_city");
+    comp_lib_city.addEventListener('change', async function () {
+        if (this.checked) {
+            window.globalVar = "./files/composer-librettist/city_composer-librettist.json";
+            update_focus();
+        }
+    });
+
+    var comp_lib = document.getElementById("radio_comp_lib");
+    comp_lib.addEventListener('change', async function () {
+        if (this.checked) {
+            window.globalVar = "./files/composer-librettist/composer-librettist.json";
+            update_focus();
+        }
+    });
+
+    var comp_year = document.getElementById("radio_comp_year");
+    comp_year.addEventListener('change', async function () {
+        if (this.checked) {
+            window.globalVar = "./files/year/year_composer.json";
+            update_focus();
+        }
+    });
+
+    var lib_year = document.getElementById("radio_lib_year");
+    lib_year.addEventListener('change', async function () {
+        if (this.checked) {
+            window.globalVar = "./files/year/year_librettist.json";
+            update_focus();
+        }
+    });
+
+    var comp_lib = document.getElementById("radio_comp_lib_year");
+    comp_lib.addEventListener('change', async function () {
+        if (this.checked) {
+            window.globalVar = "./files/year/year_composer-librettist.json";
+            update_focus();
+        }
+    });
+
+
+
+    var zoom_input = document.getElementById("zoom_intensity")
+    zoom_input.addEventListener('mouseup', function() {
+        var pixel = "%";
+        var val = zoom_input.value;
+        var val_str = val.toString();
+        document.getElementById("svg_container").style.width = val_str.concat(pixel)
+        document.getElementById("svg_container").style.top = (30) + "px";
+        document.getElementById("svg_container").style.left = (30) + "px";
+        console.log(val_str)
+    });
+
+
+dragElement(document.getElementById("svg_container"));
+function dragElement(elmnt) {
+  
+  var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
+  if (document.getElementById(elmnt.id)) {
+    /* if present, the header is where you move the DIV from:*/
+    document.getElementById(elmnt.id).onmousedown = dragMouseDown;
+  } else {
+    /* otherwise, move the DIV from anywhere inside the DIV:*/
+    elmnt.onmousedown = dragMouseDown;
+  }
+
+  function dragMouseDown(e) {
+    e = e || window.event;
+    e.preventDefault();
+    // get the mouse cursor position at startup:
+    pos3 = e.clientX;
+    pos4 = e.clientY;
+    document.onmouseup = closeDragElement;
+    // call a function whenever the cursor moves:
+    document.onmousemove = elementDrag;
+  }
+
+  function elementDrag(e) {
+    e = e || window.event;
+    e.preventDefault();
+    // calculate the new cursor position:
+    pos1 = pos3 - e.clientX;
+    pos2 = pos4 - e.clientY;
+    pos3 = e.clientX;
+    pos4 = e.clientY;
+    // set the element's new position:
+    elmnt.style.top = (elmnt.offsetTop - pos2) + "px";
+    elmnt.style.left = (elmnt.offsetLeft - pos1) + "px";
+  }
+
+  function closeDragElement() {
+    /* stop moving when mouse button is released:*/
+    //document.style.div.transition = "all 0.1s ease-in-out"
+    elmnt.style.top = (30) + "px";
+    elmnt.style.left = (30) + "px";
+    document.onmouseup = null;
+    document.onmousemove = null;
+    //document.style.div.transition = "width 0.1s ease-in-out"
+  }
+  
+}
+
+function wait_async(x) {
+        return new Promise((resolve) => {
+            setTimeout(() => {
+            resolve(x);
+            }, 500);
+        });
+}
+
+
+
+</script>
+<script>
+    var elem = document.body;
+function openFullscreen() {
+  if (elem.requestFullscreen) {
+    elem.requestFullscreen();
+  } else if (elem.webkitRequestFullscreen) { /* Safari */
+    elem.webkitRequestFullscreen();
+  } else if (elem.msRequestFullscreen) { /* IE11 */
+    elem.msRequestFullscreen();
+  }
+}
+
+</script>

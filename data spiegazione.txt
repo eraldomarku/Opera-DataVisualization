@@ -1,0 +1,17 @@
+COMPOSER,LIBRETTIST
+country -> (composer, librettist) -> title -> (placename, year)     country_composer-librettist.py
+city -> (composer, librettist) -> title -> (placename, year)	    city_composer-librettist.py
+(composer, librettist) -> title -> (placename, year)                composer-librettist.py
+
+COMPOSER
+country -> composer -> title -> (placename, year, librettist)
+city -> (composer, librettist) -> title -> (placename, year, librettist)
+composer -> title -> (placename, year, librettist)
+
+LIBRETTIST
+country -> librettist -> title -> (placename, year, composer)
+city -> (librettist, librettist) -> title -> (placename, year, composer)
+librettist -> title -> (placename, year, composer)
+
+TITLE
+country -> title -> (composer, librettist) -> (placename, year)
